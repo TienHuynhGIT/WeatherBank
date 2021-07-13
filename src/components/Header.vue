@@ -1,7 +1,6 @@
 <template>
     <div class="nav-bar">
         <b-nav>
-            <img src="@/assets/navlogo.png"/>
             <b-nav-item>
                 <router-link to="/">Home</router-link>
             </b-nav-item>
