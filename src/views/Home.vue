@@ -68,7 +68,6 @@
             }
         },
         props: {
-            title: String,
             view: String,
             weather_current: Object,
             weather_forecast: Object,
